@@ -26,6 +26,7 @@ android {
         namespace 'eu.epnw.opus_flutter_android'
     }
 
+    ndkVersion "26.2.11394342"
     compileSdkVersion 33
 
     compileOptions {
